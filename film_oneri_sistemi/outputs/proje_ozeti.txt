@@ -1,0 +1,51 @@
+🎬 FİLM ÖNERİ SİSTEMİ - PROJE ÖZETİ
+==================================================
+
+📅 Rapor Tarihi: 27.10.2025 09:43
+🎯 Proje: İçerik Tabanlı Film Öneri Sistemi
+📊 Veri Boyutu: 4000 Film
+
+📋 PROJE BAŞARILARI:
+• ✅ 4000 filmlik kapsamlı veri seti
+• ✅ Çalışan film öneri sistemi (Cosine Similarity)
+• ✅ Rating tahmin modeli (Doğrusal Regresyon)
+• ✅ Korelasyon analizi ve görselleştirme
+• ✅ Kullanıcı dostu interaktif arayüz
+• ✅ Kapsamlı dokümantasyon ve raporlar
+
+🔧 TEKNİK ÖZELLİKLER:
+• Python 3.13 ile geliştirildi
+• Scikit-learn, Pandas, Matplotlib kullanıldı
+• CountVectorizer + Cosine Similarity algoritması
+• 24 farklı tür, 23 ülke, 49 yönetmen
+• (4000, 44) boyutunda özellik matrisi
+• Real-time öneri hesaplama
+
+📂 ÇIKTI DOSYALARI:
+• film_oneri_sistemi_raporu.odt (Kapsamlı rapor)
+• filmtv_movies_encoded.xlsx (İşlenmiş veri)
+• correlation_heatmap.png (Korelasyon matrisi)
+• distribution_analysis.png (Dağılım analizi)
+• regression_predictions.png (Regresyon sonuçları)
+• scatter_matrix.png (Scatter matrix)
+• 6 Python modülü (src/ klasörü)
+• Jupyter Notebook demo
+
+🎯 KULLANIM:
+1. python src/main.py → Ana uygulama
+2. Film adı girin → Benzer filmler alın
+3. Film özellikleri → Rating tahmini
+4. Veri analizi → Grafikler ve raporlar
+
+💡 GELECEK ÇALIŞMALAR:
+• TF-IDF, Word2Vec ile gelişmiş NLP
+• Collaborative Filtering entegrasyonu
+• Deep Learning tabanlı embedding
+• Kullanıcı feedback sistemi
+
+🏆 SONUÇ:
+Proje başarıyla tamamlandı. 4000 filmlik veri seti ile
+çalışan, kapsamlı bir film öneri sistemi geliştirildi.
+
+📞 İletişim: GitHub Repository
+📄 Lisans: Açık Kaynak (Eğitim Amaçlı)

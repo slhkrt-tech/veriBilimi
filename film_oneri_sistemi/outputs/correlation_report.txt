@@ -1,0 +1,18 @@
+
+=== KORELASYON ANALİZİ RAPORU ===
+Hedef Değişken: avg_vote
+
+En Yüksek Pozitif Korelasyonlar:
+  - toplam_skor: 0.081
+  - effort: 0.008
+
+En Yüksek Negatif Korelasyonlar:
+  - rhythm: -0.031
+  - duration: -0.028
+  - humor: -0.025
+
+Genel Değerlendirme:
+  - En yüksek korelasyon toplam_skor ile 0.081 (zayıf)
+  - Genel olarak korelasyonlar zayıf seviyede
+  - Özellikler arasında güçlü doğrusal ilişki bulunmuyor
+  - Farklı modelleme yaklaşımları denenebilir
